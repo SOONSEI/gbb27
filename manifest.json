@@ -1,9 +1,10 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "ff79db6d-2ae6-4e14-b400-1d2d5cac3d59",
+    "authors": [
+        "SOONSEI - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/SOONSEI/AMPTemplates.git",
+    "url": "https://github.com/SOONSEI/AMPTemplates",
+    "imagefile": "",
+    "prefix": "SOONSEI"
 }

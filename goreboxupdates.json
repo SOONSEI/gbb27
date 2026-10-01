@@ -1,0 +1,12 @@
+[
+    {
+        "UpdateStageName": "Update Sources",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceArch": "x86_64",
+        "UpdateSourceData": "2027330",
+        "UpdateSourceArgs": "2027330",
+        "UpdateSourceVersion": "gb27",
+        "ForceDownloadPlatform": "Windows"
+    }
+]
